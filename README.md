@@ -18,3 +18,4 @@ To view the raw data, open the Excel file.
 For a detailed visual analysis, download and open the .pbix file in Power BI Desktop.
 Explore the Images  for a quick overview of the report's visuals.
 
+<img width="905" alt="image" src="https://github.com/GitWithNeeraj/powerbi-data-professional-survey/assets/84373485/f6354cf9-fea3-4a50-a88a-d42970e6acc7">
