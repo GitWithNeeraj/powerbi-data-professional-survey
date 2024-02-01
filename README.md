@@ -5,7 +5,7 @@ Contents
 Power BI - Survey data.xlsx: This Excel file houses the raw data from the survey. It includes various metrics and responses collected from data professionals.
 
 Data Professionals Survey.pbix: A Power BI report file offering a detailed visual analysis of the survey data. Note: This file requires Power BI Desktop for full interactive functionality.
-
+app.powerbi.com/groups/me/reports/0c86adc9-630c-4dfc-bbbe-b515c813ea30/ReportSection?experience=power-bi
 Images: Screenshots of key visuals and dashboards from the Power BI report. These images offer a glimpse into the analytical depth and graphical representations contained in the .pbix file.
 
 
