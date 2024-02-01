@@ -10,10 +10,10 @@ Images: Screenshots of key visuals and dashboards from the Power BI report. Thes
 
 
 
-Project Objective
+Project Objective:
 The goal of this project is to uncover insights about the data professionals' community through survey data. Analysis areas include but are not limited to demographic distributions, professional preferences, tool usage, and industry trends.
 
-Using This Repository
+Using This Repository:
 To view the raw data, open the Excel file.
 For a detailed visual analysis, download and open the .pbix file in Power BI Desktop.
 Explore the Images  for a quick overview of the report's visuals.
