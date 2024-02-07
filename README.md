@@ -16,7 +16,7 @@ The goal of this project is to uncover insights about the data professionals' co
 Using This Repository:
 To view the raw data, open the Excel file.
 For a detailed visual analysis, download and open the .pbix file in Power BI Desktop.
-Explore the Images  for a quick overview of the report's visuals.
+Explore the Video  for a quick overview of the report's visuals.
 
 
 https://github.com/GitWithNeeraj/powerbi-data-professional-survey/assets/84373485/64ff6f85-2487-482c-881b-017a970c4737
